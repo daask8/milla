@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>HTML</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+  <img alt="" border="0" height="794" id="Image-Maps-Com-image-maps-2022-08-30-201121" orgheight="794" orgwidth="720" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha1QIEslKJruagq3dBSaT19EolRMSAroUfe12MLVOfcbEzctLVx2kV_yjo0stww_9wkRyjSeIiZgEoUp9ids5nNibppucHmIjkU_ekYoLIxdzMslozrDiE80omXj7_F6ghAsLc-BEzT5Yit2QnXvRzOeTv4XXnPFI0T1qEWvqpSPQxLG9RS0eQewWXEQ/s16000/tarjeta.jpg" usemap="#image-maps-2022-08-30-201121" width="720" />
+<map id="ImageMapsCom-image-maps-2022-08-30-201121" name="image-maps-2022-08-30-201121">
+<area alt="Facebook" coords="294,431,435,474" href="https://www.facebook.com/Ali-milla-tattoo-970450633028458" shape="rect" style="outline: none;" target="_self" title="Facebook"></area>
+<area alt="Instagram" coords="263,476,461,519" href="https://www.instagram.com/alimillatattoo/" shape="rect" style="outline: none;" target="_self" title="Instagram"></area>
+<area alt="Whatsapp" coords="275,517,444,561" href="http://wa.me/541168866994" shape="rect" style="outline: none;" target="_self" title="Whatsapp"></area>
+<area alt="Ubicacion" coords="250,564,473,605" href="https://www.google.com.ar/maps/place/Av.+Brig.+Gral.+Juan+Manuel+de+Rosas+6867,+B1765AAD+Isidro+Casanova,+Provincia+de+Buenos+Aires/@-34.7035985,-58.5826143,18.75z/data=!4m5!3m4!1s0x95bcc66ddc73d6f7:0xa641542948b33def!8m2!3d-34.7032938!4d-58.5826079" shape="rect" style="outline: none;" target="_self" title="Ubicacion"></area>
+<area alt="Image Map" coords="718,792,720,794" href="https://www.image-maps.com/" shape="rect" style="outline: none;" title="Image Map"></area>
+</map>
+</body>
+</html>
+
